@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    background-color: yellow;
+    padding: 20%;
+}
+
+header{
+    text-align: center;
+    color: brown;
+    font-size: x-large;
+    font-family: cursive;
+    text-shadow: 2px 4px greenyellow;
+}
+
+main{
+    display: flex;
+    gap: 20px;
+    margin: 8%;
+}
+article{
+    background-color: blueviolet;
+    padding: 12px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px gray;
+}
+       
+section,footer{
+       text-align: center;
+}
